@@ -1,0 +1,6 @@
+{
+  "name": "passbook-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless API that proxies slip-scanning requests to Google Gemini, keeping the API key on the server."
+}
